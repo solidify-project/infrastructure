@@ -1,1 +1,1 @@
-# infrastructure
+# Solidify Project Infrastructure
